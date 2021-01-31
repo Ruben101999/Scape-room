@@ -249,3 +249,26 @@ a:link {
     text-decoration: underline;
   }
 
+/*Responsive*/
+
+@media screen and (max-width:700px) {
+    .header {
+        font-size: 300%;
+    }
+    .one-column h1 {
+        font-size: 6.5vw;
+    }
+    .two-column p {
+        font-size: 4.2vw;
+    }
+    .two-column {
+        width: 50%;
+    }
+    .four-column {
+        width: 50%;
+    }
+    footer {
+        width: 300%;
+    }
+
+}
