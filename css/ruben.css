@@ -1,0 +1,274 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+head{
+   
+    text-align: center;
+    padding: left;  
+}
+
+
+
+body {
+    margin: 0;
+    padding: 10%;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(79, 167, 113);
+}
+
+img {
+    display: block;
+}
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/*head*/
+
+
+
+.paises{
+    background-image: url("../img/Imagen-1.gif"); 
+    background-size: cover; 
+    padding-top: 35%;
+}
+
+
+
+#imagen-principio{
+    background-image: url("../img/Imagen-1.gif");
+
+}
+
+#parte-2{
+    color: red;
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-3{
+    color: blue;
+    text-align: left;
+    padding: 300px;  
+}
+
+#parte-4{
+    color: rgb(rgba(66, 160, 79, 0.39), green, blue);
+    text-align: left; 
+    padding: 300px; 
+}
+
+#parte-5{
+    color: red;
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-6{
+    color: rgb(212, 182, 182);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-7{
+    color: green;
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-8{
+    color: grey;
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-9{
+    color: yellow;
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-10{
+    color: rgb(167, 123, 87);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-11{
+    color: rgb(155, 218, 38);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-12{
+    color: rgb(241, 149, 10);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-13{
+    color: rgba(185, 147, 228, 0.562);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-14{
+    color: rgb(74, 223, 141);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-15{
+    color: rgb(141, 1, 43);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-16{
+    color: rgb(100, 36, 184);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-17{
+    color: rgb(9, 2, 17);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-18{
+    color: rgb(9, 2, 17);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-19{
+    color: rgb(9, 2, 17);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-20{
+    color: rgb(9, 2, 17);
+    text-align: left;
+    padding: 300px; 
+}
+
+#parte-21{
+    color: rgb(9, 2, 17);
+    text-align: left;
+    padding: 300px; 
+}
+.juego{
+    padding-left: 600px; 
+    padding-bottom: 5%;  
+}
+
+
+
+/*body*/
+
+.body{
+    padding: 2% 5px;
+}
+
+h1 {
+    color: rgb(185, 172, 164);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+}
+
+h4{
+    
+    text-align: center;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 5%;
+}
+
+p{
+    text-align: center;
+    line-height: 200%;
+}
+
+.pregunta{
+    padding-bottom: 15%;
+
+}
+
+/*footer*/
+
+.footer {
+    padding: 1%;
+    float: left;
+    width: 100%;
+    background-color:orange;
+    padding-top: 6%;
+
+}
+
+#columnas{
+    text-decoration: none;
+    background-color: rgb(182, 182, 219);
+    width: 100%;
+    float: left;
+    padding: 5%;
+}
+
+.padding-elementos {
+    padding: 0% 20%;
+    float: left;
+}
+
+/*href styles*/
+
+a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:active {
+    text-decoration: underline;
+  }
+
+/*Responsive*/
+
+@media screen and (max-width:700px) {
+    .header {
+        font-size: 300%;
+    }
+    .one-column h1 {
+        font-size: 6.5vw;
+    }
+    .two-column p {
+        font-size: 4.2vw;
+    }
+    .two-column {
+        width: 50%;
+    }
+    .four-column {
+        width: 50%;
+    }
+    footer {
+        width: 300%;
+    }
+
+}
