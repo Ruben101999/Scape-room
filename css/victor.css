@@ -1,0 +1,107 @@
+                        * {
+                    box-sizing: border-box;
+                    /* font family */
+                    font-family: 'Roboto Slab', serif;
+                }
+                
+                body {
+                    margin: 0;
+                }
+                
+                .header {
+                    background-image: url(../world.jpg);
+                    background-size: cover;
+                    background-attachment: fixed;
+                    padding: 15% 30px;
+                    text-align: center;
+                    color: white;
+                    font-size: 2.5vw;
+                }
+                
+                .one-column {
+                    float: left;
+                    width: 100%;
+                    padding: 7px;
+                }
+                
+                .one-column h1 {
+                    font-size: 3vw;
+                }
+                
+                .one-column p {
+                    font-size: 2.5vw;
+                }
+                
+                .one-column img {
+                    border-radius: 10px;
+                }
+                
+                .two-column {
+                    float: left;
+                    width: 50%;
+                    padding: 2%;
+                }
+                
+                .two-column h1 {
+                    font-size: 3vw;
+                }
+                
+                .two-column p {
+                    font-size: 2.5vw;
+                }
+                
+                .two-column img {
+                    width: 100%;
+                    border-radius: 10px;
+                }
+                
+                a:link {
+                    text-decoration: black;
+                }
+                
+                a:visited {
+                    text-decoration: black;
+                }
+                
+                a:hover {
+                    text-decoration: black;
+                }
+                
+                a:active {
+                    text-decoration: black;
+                }
+                
+                #section-1 {
+                    background-color: #FAF5F3;
+                }
+                
+                #section-2 {
+                    background-color: #F5EEF5;
+                }
+                
+                @media screen and (max-width:700px) {
+                    .header h1 {
+                        font-size: 5px;
+                    }
+                    .header img {
+                        width: 80%;
+                    }
+                    .header {
+                        padding: 5% 5px;
+                    }
+                    .two-column {
+                        width: 100%;
+                        float: left;
+                        padding: 7%;
+                    }
+                    .two-column img {
+                        width: 100%;
+                    }
+                    .four-column {
+                        width: 50%;
+                    }
+                    .four-column img {
+                        width: 120%;
+                        #footer {
+                            width: 100%;
+                        }
