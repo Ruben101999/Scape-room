@@ -1,0 +1,158 @@
+<!-- Los elementos importantes de los archivos rss son el item y el title !-->
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<language>es</language>
+<title>Banco de España - Notas de prensa del Banco de España</title>
+<description>
+<![CDATA[ Este canal RSS recoge las notas informativas publicadas por el Banco de Espa&ntilde;a. ]]>
+</description>
+<link>https://www.bde.es/bde/es/secciones/prensa/</link>
+<ttl>30</ttl>
+<lastBuildDate>Tue, 2 Feb 2021 16:54:28 +0100</lastBuildDate>
+<managingEditor>comunicacion@bde.es</managingEditor>
+<copyright>Reservados todos los derechos</copyright>
+<item>
+<title>El Banco de España somete a consulta pública la modificación de su circular macroprudencial</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_13.pdf</link>
+<guid isPermaLink="false">a7324c12d4f57710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Tue, 2 Feb 2021 12:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El Banco de España modifica la normativa sobre la Central de Información de Riesgos y sobre los tipos de interés oficiales</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_12.pdf</link>
+<guid isPermaLink="false">6fcc56fa88d57710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 1 Feb 2021 14:45:00 +0100</pubDate>
+</item>
+<item>
+<title>El principal índice de referencia de los préstamos hipotecarios (euríbor a un año) baja hasta el -0,505 % en enero</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_11.pdf</link>
+<guid isPermaLink="false">e476cea461c57710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 1 Feb 2021 12:22:26 +0100</pubDate>
+</item>
+<item>
+<title>En noviembre de 2020 la capacidad de financiación de la economía española fue de 3,8 mm de euros, similar a la registrada un año antes</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_10.pdf</link>
+<guid isPermaLink="false">91fa30e1ff947710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Fri, 29 Jan 2021 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Consumo, Banco de España y CNMV firman un convenio para mejorar la protección de los consumidores a través de la educación financiera</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_09.pdf</link>
+<guid isPermaLink="false">34b4182b90837710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 25 Jan 2021 15:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El Banco de España participa en el segundo fondo de inversión en bonos verdes del BPI</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_08.pdf</link>
+<guid isPermaLink="false">f22a182b90837710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 25 Jan 2021 09:30:00 +0100</pubDate>
+</item>
+<item>
+<title>Cambios en el servicio de cita previa para la atención presencial en las sedes del Banco de España</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_07.pdf</link>
+<guid isPermaLink="false">aff4b18aebf17710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Thu, 21 Jan 2021 08:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El Banco de España publica las estadísticas supervisoras de las entidades de crédito correspondientes al tercer trimestre de 2020</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_06.pdf</link>
+<guid isPermaLink="false">5c9aa28a79e17710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Wed, 20 Jan 2021 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>La deuda de las Administraciones Públicas alcanzó 1.313 mm de euros en noviembre de 2020 </title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_05.pdf</link>
+<guid isPermaLink="false">14a69f3a11307710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 18 Jan 2021 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El Concurso Generación €uro se consolida con una participación de 1.830 estudiantes</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_04.pdf</link>
+<guid isPermaLink="false">9b2f9f3a11307710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Fri, 15 Jan 2021 12:00:00 +0100</pubDate>
+</item>
+<item>
+<title>La deuda de empresas y hogares alcanzó el 143,2 % del PIB en el tercer trimestre de 2020 frente al 131,3% de un año antes</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_03.pdf</link>
+<guid isPermaLink="false">34d033d355007710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Fri, 15 Jan 2021 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>Suspendido lunes y martes el servicio de atención al público en Madrid</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_02.pdf</link>
+<guid isPermaLink="false">415827bc72ce6710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Sun, 10 Jan 2021 17:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El principal índice de referencia de los préstamos hipotecarios (euríbor) baja hasta el -0,497 % en diciembre</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/21/presbe2021_01.pdf</link>
+<guid isPermaLink="false">da7586034ebc6710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 4 Jan 2021 14:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El Banco de España y el Fondo Latinoamericano de Reservas firman un acuerdo de cooperación</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/20/presbe2020_104.pdf</link>
+<guid isPermaLink="false">0ba4a4cf48f86710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Wed, 23 Dec 2020 13:56:18 +0100</pubDate>
+</item>
+<item>
+<title>La posición de inversión internacional neta de España se situó en el -79 % del PIB en el tercer trimestre de 2020 frente al -77,3% del trimestre anterior</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/20/presbe2020_103.pdf</link>
+<guid isPermaLink="false">766ccfc0cee86710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Wed, 23 Dec 2020 10:42:09 +0100</pubDate>
+</item>
+<item>
+<title>El Banco de España mantiene el colchón de capital anticíclico en el 0%</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/20/presbe2020_102.pdf</link>
+<guid isPermaLink="false">f835b80cf3576710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Mon, 21 Dec 2020 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>La deuda de las Administraciones Públicas alcanzó 1.306 mm de euros en octubre de 2020 </title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/ComunicadosBCE/NotasInformativasBCE/20/presbe2020_101.pdf</link>
+<guid isPermaLink="false">1f133f0500c66710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Thu, 17 Dec 2020 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>La deuda de las Administraciones Públicas se situó en el 114,1% del PIB en el tercer trimestre de 2020</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/20/presbe2020_99.pdf</link>
+<guid isPermaLink="false">4fd6cffda2c46710VgnVCM10000065de14acRCRD</guid>
+<description/>
+<pubDate>Fri, 11 Dec 2020 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El Banco de España aprueba la circular contable de las entidades de pago y de dinero electrónico</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/20/presbe2020_98.pdf</link>
+<guid isPermaLink="false">98c71bebd1c26710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Fri, 4 Dec 2020 10:00:00 +0100</pubDate>
+</item>
+<item>
+<title>El principal índice de referencia de los préstamos hipotecarios (euríbor) baja hasta el -0,481 % en noviembre</title>
+<link>https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/NotasInformativas/20/presbe2020_97.pdf</link>
+<guid isPermaLink="false">7a4053c8cad16710VgnVCM10000064de14acRCRD</guid>
+<description/>
+<pubDate>Tue, 1 Dec 2020 14:30:00 +0100</pubDate>
+</item>
+<atom:link type="application/rss+xml" rel="self" href="https://www.bde.es/bde/es/utiles/Canal_RSS/Notas_informativ/"/>
+</channel>
+</rss>
+<!--  a: e9bc69bd684289e0b44feafa838bdec9; g: Wed Feb 03 09:44:40 CET 2021  -->
